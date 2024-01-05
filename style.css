@@ -102,6 +102,7 @@ button{
 a:hover{
     color: rgb(0, 110, 255);
     text-decoration: underline;
+    cursor:pointer;
     text-underline-offset: 0.5em; 
 
 }
